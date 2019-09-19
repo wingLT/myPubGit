@@ -1,0 +1,14 @@
+@font-face {
+    /*重命名字体名字*/
+    font-family: 'chinese';
+    /*引入字体*/
+    src: url('minijianhanzhenguanbiao.TTF');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'num1';
+    src: url('DIGITAL-7.TTF');
+    font-weight: normal;
+    font-style: normal;
+}
